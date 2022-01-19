@@ -4,8 +4,6 @@
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/alberto-morais-de-oliveira-filho-9338a1123/" target="_blank"> Linkedin </a>
 
 ---
-
-<br />
 ### Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSql Logo" width="50" height="50" align="left" />
