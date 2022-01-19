@@ -6,7 +6,6 @@
 ---
 
 <br />
-
 ### Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSql Logo" width="50" height="50" align="left" />
